@@ -1,0 +1,50 @@
+.nav-link {
+  color: black;
+}
+
+img.pg {
+  float: right;
+  margin-right: 200px;
+  width: 450px;
+  height: 450px;
+  margin-top: 50px;
+}
+
+.aw {
+  margin-top: 100px;
+  margin-left: 250px;
+  font-family: arial;
+  font-size: 40px;
+}
+
+.bru {
+  margin-left: 250px;
+  font-family: arial;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+.kotak {
+  margin-left: 250px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.listdaftar {
+  width: 100%;
+  display: flex;
+  padding: 3px;
+  margin-right: 5px;
+}
+
+.kanan {
+  width: 50%;
+}
+
+.kiri {
+  color: blue;
+}
+
+.container {
+  margin-top: 5px;
+}
